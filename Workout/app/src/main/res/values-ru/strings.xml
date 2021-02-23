@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workout</string>
+
+    <string name="sets">ПОДХОДЫ</string>
+    <string name="rest">ОТДЫХ</string>
+    <string name="work">РАБОТА</string>
+</resources>
